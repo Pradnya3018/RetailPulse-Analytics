@@ -72,22 +72,23 @@ This project analyzes customer purchase and sales data to uncover revenue trends
    pip install pandas numpy 
    ```
 3. Run the Python scripts/notebooks in order (data loading → cleaning → EDA)
-   ```bash
-Retail Pulse Analytics.ipynb
-   ```
-4. Import the cleaned dataset into MySQL and run the queries in `Retail Pluse sql code.sql`
-5. Open `Retail Pulse Power BI .pbix` in Power BI Desktop to view/interact with the dashboard
-
-## 📁 Project Structure
+```bash
+   jupyter notebook analysis.ipynb
 ```
+4.Import the cleaned dataset into MySQL and run the queries in 
+```bash
+Retail Pulse sql code.sql
+```
+5.Open Retail Pulse Power BI.pbix in Power BI Desktop to view/interact with the dashboard
+
+**📁 Project Structure
 ├── data/               # Raw and cleaned datasets
 ├── notebooks/          # Python scripts/notebooks for cleaning & EDA
 ├── sql/                # SQL query files
 ├── dashboard/           # Power BI file (.pbix) and screenshots
 ├── report/             # Final report/summary
 └── README.md
-```
 
-## 📫 Contact
-- LinkedIn: [linkedin.com/in/pradnya-gajare-912011285](https://linkedin.com/in/pradnya-gajare-912011285/)
-- Email: [pradnyagajare2@gmail.com](mailto:pradnyagajare2@gmail.com)
+**📫 Contact
+LinkedIn: linkedin.com/in/pradnya-gajare-912011285
+Email: pradnyagajare2@gmail.com
