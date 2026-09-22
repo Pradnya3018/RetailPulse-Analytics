@@ -46,7 +46,7 @@ This project analyzes customer purchase and sales data to uncover revenue trends
 
 **Filters/Slicers:** Category, Subscription Status, Gender, Shipping Type
 
-📷 *Add a screenshot of your dashboard here:*
+
 <img width="634" height="331" alt="image" src="https://github.com/user-attachments/assets/eabdda34-f5fc-4f6b-8b1c-7124ec00f8a9" />
 
 
