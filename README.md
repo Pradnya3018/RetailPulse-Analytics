@@ -83,6 +83,7 @@ Retail Pulse sql code.sql
 
 
 📫 Contact
+
 LinkedIn: linkedin.com/in/pradnya-gajare-912011285
 
 Email: pradnyagajare2@gmail.com
