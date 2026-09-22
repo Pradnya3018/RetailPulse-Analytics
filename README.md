@@ -14,7 +14,7 @@ This project analyzes customer purchase and sales data to uncover revenue trends
 | Category | Tools |
 |---|---|
 | Data Loading & Cleaning | Python (Pandas, NumPy) |
-| Exploratory Data Analysis | Python (Pandas, Matplotlib/Seaborn) |
+| Exploratory Data Analysis | Python (Pandas) |
 | Querying & Analysis | SQL (MySQL) |
 | Visualization | Power BI |
 | Reporting | Power BI Report / PDF |
@@ -65,18 +65,18 @@ This project analyzes customer purchase and sales data to uncover revenue trends
 ## 🚀 How to Run
 1. Clone this repository
    ```bash
-   git clone [repository-link]
+   git clone https://github.com/Pradnya3018/RetailPulse-Analytics
    ```
 2. Install required Python libraries
    ```bash
-   pip install pandas numpy matplotlib seaborn
+   pip install pandas numpy 
    ```
 3. Run the Python scripts/notebooks in order (data loading → cleaning → EDA)
    ```bash
-   jupyter notebook analysis.ipynb
+Retail Pulse Analytics.ipynb
    ```
-4. Import the cleaned dataset into MySQL and run the queries in `sql/queries.sql`
-5. Open `dashboard.pbix` in Power BI Desktop to view/interact with the dashboard
+4. Import the cleaned dataset into MySQL and run the queries in `Retail Pluse sql code.sql`
+5. Open `Retail Pulse Power BI .pbix` in Power BI Desktop to view/interact with the dashboard
 
 ## 📁 Project Structure
 ```
